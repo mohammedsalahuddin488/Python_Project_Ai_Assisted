@@ -3,7 +3,7 @@ import shutil
 
 FOLDER_PATH = os.getcwd()
 
-# File type mapping
+# File type mapping this could be organized according to your needs
 FILE_TYPE_MAPPING = {
     'Images': ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.tiff'],
     'Documents': ['.pdf', '.docx', '.txt', '.xlsx', '.pptx'],
